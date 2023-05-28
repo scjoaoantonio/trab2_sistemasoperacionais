@@ -11,11 +11,14 @@ make
 ###  Execução do Programa
 
 ```cmd
-./tp2 <tecnica> ./input/nome.log
+./tp2virtual <tecnica> ./input/nome.log <PAG> <MEM>
 
 Técnicas:
 - lru
 - nru
 - second_chance
+
+PAG = Tamanho da página (KB)
+MEM = Tamanho da memória (KB)
 
 ```
