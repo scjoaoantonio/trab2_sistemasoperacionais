@@ -17,4 +17,5 @@ Técnicas:
 - lru
 - nru
 - second_chance
-``
+
+```
