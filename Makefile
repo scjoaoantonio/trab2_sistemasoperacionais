@@ -2,6 +2,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra -pedantic -std=c99
 
 OBJ = main.o
+HDR = simulador.h
 
 all: tp2virtual
 
